@@ -9,4 +9,4 @@ As itself Deep Q Learning takes large time to converge. To improve on this follo
 1. Experience Replay
 2. Fixed Q Target
 
-To further improve upon the performance, I implemented Double deep Q learning and obtained an average score of 15.5/21.0 and best score of 20.0/21.0 in just 250 games
+To further improve upon the performance, I implemented Double deep Q learning and obtained an average score of 15.0/21.0 and best score of 19.0/21.0 in just 200 games
